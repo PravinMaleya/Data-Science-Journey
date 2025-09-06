@@ -12,7 +12,7 @@ The goal of this journey is to:
 
 ## Repository Structure
 
-\`\`\`
+```
 Data-Science-Journey/
 │
 ├── README.md                # Overview of this repository
@@ -25,7 +25,7 @@ Data-Science-Journey/
 │       └── resources/       # PDFs, cheat sheets, helpful links
 │
 └── (Upcoming months will follow the same structure)
-\`\`\`
+```
 
 ---
 
@@ -60,7 +60,7 @@ These are the core tools and libraries I’ll be using throughout the journey:
 
 ---
 
-## 🌱 Week 1: Python Basics
+## Week 1: Python Basics
 
 This week focuses on building a strong **Python foundation**, covering:
 
@@ -107,4 +107,4 @@ This learning journey is inspired by:
 
 ---
 
-_"The best way to learn is by doing and documenting."_ 
+>_"The best way to learn is by doing and documenting."_ 
